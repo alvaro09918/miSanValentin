@@ -55,13 +55,13 @@
 */
 const messages = [
 "¿Estás segura?",
-"¿Realmente segura?",
-"¿Estás segura?",
-"¡Piénsalo!",
-"Si dices que no, le dire a tu madre y me pondré muy triste...",
-"Me pondré muy triste...",
-"Me pondré muy, muy, muy triste...",
-"Está bien, dejaré de preguntar...",
+"¿Oye enserio? Vamos a ir a ver aunque sea palomas a la San Francisco jajaja",
+"¿Realmente estas segura?",
+"Si dices que no, le dire a tu madre para que te pegue jajaja...",
+"¿oye enserio estás segura?",
+"Piénsalo, aunque sea un ratito...",
+"Me pondré muy triste enserio...",
+"Weno, dejaré de preguntar...",
 "Es broma, ¡di que sí, por favor jajaja! ❤️"
 ];
 
